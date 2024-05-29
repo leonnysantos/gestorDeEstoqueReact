@@ -1,8 +1,13 @@
-# React + Vite
+# Gestor de Estoque
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse é um gestor de estoque, nele conseguimos adicionar, atualizar e remover itens, temos uma tela que mostra os detalhes dos itens.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack utilizada
+
+**Front-end:** React e Javascript
+
+
+## Aprendizados
+
+Esse foi um projeto do curso OneBitCode, em que aprofundei meu conhecimento no uso do React.
